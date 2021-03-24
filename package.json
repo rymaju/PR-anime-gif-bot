@@ -1,11 +1,11 @@
 {
-  "name": "pr-gif-react",
+  "name": "pr-anime-gif-bot",
   "version": "1.0.0",
   "private": true,
-  "description": "A Probot app",
+  "description": "A Probot app that reacts to merged PRs with a random wholesome anime gif",
   "author": "Ryan Jung <ryan.matthew.jung@gmail.com>",
   "license": "ISC",
-  "homepage": "https://github.com/rymaju/pr-gif-react",
+  "homepage": "https://github.com/rymaju/PR-anime-gif-bot",
   "keywords": [
     "probot",
     "github",
@@ -13,11 +13,11 @@
   ],
   "scripts": {
     "build": "tsc",
-    "start": "probot run ./lib/index.js",
+    "start": "tsc && probot run ./lib/index.js",
     "test": "jest"
   },
   "dependencies": {
-    "probot": "^11.0.1"
+    "probot": "^11.0.5"
   },
   "devDependencies": {
     "@types/jest": "^26.0.19",
