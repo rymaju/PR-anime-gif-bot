@@ -1,14 +1,20 @@
-# pr-anime-gif-bot
+# PR Anime Gif Bot
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) to react with wholesome anime gifs when a PR is merged on Github.
 
+This app is deployed on [glitch.me](https://glitch.me). You can see the code live on the project page [here](https://glitch.com/~pr-anime-gif-bot).
+
 ## Example
 
-https://files.slack.com/files-pri/T016K6GE7FC-F01S1HFV15L/image.png
+![image](https://user-images.githubusercontent.com/23691775/112256340-07b18b80-8c3a-11eb-8551-89d05b2cae22.png)
+
+[Link to PR](https://github.com/Code-4-Community/lucys-love-bus-frontend/pull/76#issuecomment-805476425)
 
 ## Project Structure
 
-Gifs are randomly selected from the array exported in `src/gifs.ts`. If you find anything good feel free to add to the list!
+Gifs are randomly selected from the array exported in `src/gifs.ts`. If you find anything good feel free to add to the list! Of course, don't try to sneak in anything unsavory, we only take wholesome happy content here.
+
+Of course you can pretty easily fork or simply start from the Probot starter code and create your own gif bot if you want to customize the app for your own projects.
 
 ## Setup
 
