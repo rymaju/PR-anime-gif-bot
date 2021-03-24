@@ -2,6 +2,10 @@
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) to react with wholesome anime gifs when a PR is merged on Github.
 
+## Example
+
+https://files.slack.com/files-pri/T016K6GE7FC-F01S1HFV15L/image.png
+
 ## Project Structure
 
 Gifs are randomly selected from the array exported in `src/gifs.ts`. If you find anything good feel free to add to the list!
