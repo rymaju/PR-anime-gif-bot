@@ -10,7 +10,9 @@ const GIFS: string[] = [
     "https://media3.giphy.com/media/11NlXRhFSZl4w8/giphy.gif",
     "https://averagejoe351213450.files.wordpress.com/2020/07/tenor-1.gif",
     "https://data.whicdn.com/images/220999505/original.gif",
-    "https://media0.giphy.com/media/pWsdECIr4w9Jm/giphy.gif"
+    "https://media0.giphy.com/media/pWsdECIr4w9Jm/giphy.gif",
+    "https://media1.tenor.com/images/13d12906ab6c24e688a1144f85199e98/tenor.gif",
+    "https://media1.tenor.com/images/616f213c7e753a05f5445e72435ab6bd/tenor.gif"
 ]
 
 export default GIFS
